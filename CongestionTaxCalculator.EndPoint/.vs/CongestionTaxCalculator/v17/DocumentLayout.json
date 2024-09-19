@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.EndPoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770341AC-0D25-491E-A541-6D64749FF82F}|..\\CongestionTaxCalculator.Tests\\CongestionTaxCalculator.Tests.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.tests\\business\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770341AC-0D25-491E-A541-6D64749FF82F}|..\\CongestionTaxCalculator.Tests\\CongestionTaxCalculator.Tests.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.tests\\endpoint\\taxcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B04653E-E1D8-4D57-8384-AB2892205E3A}|CongestionTaxCalculator.EndPoint.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.endpoint\\controllers\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B04653E-E1D8-4D57-8384-AB2892205E3A}|CongestionTaxCalculator.EndPoint.csproj|solutionrelative:controllers\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE1064F-3BB1-49C6-9449-C87F996330C2}|..\\CongestionTaxCalculator.Business\\CongestionTaxCalculator.Business.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.business\\implementations\\congestiontaxcalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C300AE-A2F7-4B24-A6AF-A6E0121D6816}|..\\CongestionTaxCalculator.DataAccess.MSSQL\\CongestionTaxCalculator.DataAccess.MSSQL.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess.mssql\\congestiontaxcalculatordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C300AE-A2F7-4B24-A6AF-A6E0121D6816}|..\\CongestionTaxCalculator.DataAccess.MSSQL\\CongestionTaxCalculator.DataAccess.MSSQL.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess.mssql\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C300AE-A2F7-4B24-A6AF-A6E0121D6816}|..\\CongestionTaxCalculator.DataAccess.MSSQL\\CongestionTaxCalculator.DataAccess.MSSQL.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess.mssql\\repositories\\passagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9567414B-B8F7-4735-9DE4-278132B686F0}|..\\CongestionTaxCalculator.DataAccess\\CongestionTaxCalculator.DataAccess.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess\\repositories\\itaxrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9567414B-B8F7-4735-9DE4-278132B686F0}|..\\CongestionTaxCalculator.DataAccess\\CongestionTaxCalculator.DataAccess.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess\\repositories\\ipassagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A7458-8517-491C-A186-7A70676202BF}|..\\CongestionTaxCalculator.Common\\CongestionTaxCalculator.Common.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.common\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A7458-8517-491C-A186-7A70676202BF}|..\\CongestionTaxCalculator.Common\\CongestionTaxCalculator.Common.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.common\\entities\\tollfreevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A7458-8517-491C-A186-7A70676202BF}|..\\CongestionTaxCalculator.Common\\CongestionTaxCalculator.Common.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.common\\entities\\tollfreedayrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A7458-8517-491C-A186-7A70676202BF}|..\\CongestionTaxCalculator.Common\\CongestionTaxCalculator.Common.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.common\\entities\\taxrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78A7458-8517-491C-A186-7A70676202BF}|..\\CongestionTaxCalculator.Common\\CongestionTaxCalculator.Common.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.common\\entities\\passage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE1064F-3BB1-49C6-9449-C87F996330C2}|..\\CongestionTaxCalculator.Business\\CongestionTaxCalculator.Business.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.business\\implementations\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE1064F-3BB1-49C6-9449-C87F996330C2}|..\\CongestionTaxCalculator.Business\\CongestionTaxCalculator.Business.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.business\\implementations\\passageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE1064F-3BB1-49C6-9449-C87F996330C2}|..\\CongestionTaxCalculator.Business\\CongestionTaxCalculator.Business.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.business\\definitions\\icongestiontaxcalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B04653E-E1D8-4D57-8384-AB2892205E3A}|CongestionTaxCalculator.EndPoint.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B04653E-E1D8-4D57-8384-AB2892205E3A}|CongestionTaxCalculator.EndPoint.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9567414B-B8F7-4735-9DE4-278132B686F0}|..\\CongestionTaxCalculator.DataAccess\\CongestionTaxCalculator.DataAccess.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess\\repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9567414B-B8F7-4735-9DE4-278132B686F0}|..\\CongestionTaxCalculator.DataAccess\\CongestionTaxCalculator.DataAccess.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess\\repositories\\itollfreevehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9567414B-B8F7-4735-9DE4-278132B686F0}|..\\CongestionTaxCalculator.DataAccess\\CongestionTaxCalculator.DataAccess.csproj|c:\\users\\jaber.ahmadi\\source\\repos\\congestiontaxcalculator\\congestiontaxcalculator.dataaccess\\repositories\\itollfreedayrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Tests\\EndPoint\\TaxControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Tests\\EndPoint\\TaxControllerTests.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Tests\\EndPoint\\TaxControllerTests.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Tests\\EndPoint\\TaxControllerTests.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwHEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:11:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Tests\\Business\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Tests\\Business\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Tests\\Business\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Tests\\Business\\UnitTest1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:00:14.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CongestionTaxCalculatorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess.MSSQL\\CongestionTaxCalculatorDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess.MSSQL\\CongestionTaxCalculatorDbContext.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess.MSSQL\\CongestionTaxCalculatorDbContext.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess.MSSQL\\CongestionTaxCalculatorDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwD0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:46:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess.MSSQL\\SqlUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess.MSSQL\\SqlUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess.MSSQL\\SqlUnitOfWork.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess.MSSQL\\SqlUnitOfWork.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:46:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess.MSSQL\\Repositories\\PassageRepository.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess.MSSQL\\Repositories\\PassageRepository.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess.MSSQL\\Repositories\\PassageRepository.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess.MSSQL\\Repositories\\PassageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:46:30.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Common\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Common\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:46:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TollFreeVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\TollFreeVehicle.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Common\\Entities\\TollFreeVehicle.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\TollFreeVehicle.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Common\\Entities\\TollFreeVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:45:04.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TollFreeDayRule.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\TollFreeDayRule.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Common\\Entities\\TollFreeDayRule.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\TollFreeDayRule.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Common\\Entities\\TollFreeDayRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:43:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaxRule.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\TaxRule.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Common\\Entities\\TaxRule.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\TaxRule.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Common\\Entities\\TaxRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:41:18.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Passage.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\Passage.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Common\\Entities\\Passage.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Common\\Entities\\Passage.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Common\\Entities\\Passage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:41:16.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICongestionTaxCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Definitions\\ICongestionTaxCalculatorService.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Business\\Definitions\\ICongestionTaxCalculatorService.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Definitions\\ICongestionTaxCalculatorService.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Business\\Definitions\\ICongestionTaxCalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:40:48.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\IVehicleRepository.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:34:39.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITollFreeVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeVehicleRepository.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeVehicleRepository.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:34:30.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITollFreeDayRuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeDayRuleRepository.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeDayRuleRepository.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeDayRuleRepository.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\ITollFreeDayRuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:34:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaxRuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\ITaxRuleRepository.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\ITaxRuleRepository.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\ITaxRuleRepository.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\ITaxRuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:34:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPassageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\IPassageRepository.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\IPassageRepository.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.DataAccess\\Repositories\\IPassageRepository.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.DataAccess\\Repositories\\IPassageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:33:57.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Implementations\\VehicleService.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Business\\Implementations\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Implementations\\VehicleService.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Business\\Implementations\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:30:25.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PassageService.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Implementations\\PassageService.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Business\\Implementations\\PassageService.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Implementations\\PassageService.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Business\\Implementations\\PassageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:30:12.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CongestionTaxCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Implementations\\CongestionTaxCalculatorService.cs",
+              "RelativeDocumentMoniker": "..\\CongestionTaxCalculator.Business\\Implementations\\CongestionTaxCalculatorService.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.Business\\Implementations\\CongestionTaxCalculatorService.cs",
+              "RelativeToolTip": "..\\CongestionTaxCalculator.Business\\Implementations\\CongestionTaxCalculatorService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:29:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.EndPoint\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.EndPoint\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:26:15.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxController.cs",
+              "DocumentMoniker": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.EndPoint\\Controllers\\TaxController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaxController.cs",
+              "ToolTip": "C:\\Users\\jaber.ahmadi\\source\\repos\\CongestionTaxCalculator\\CongestionTaxCalculator.EndPoint\\Controllers\\TaxController.cs",
+              "RelativeToolTip": "Controllers\\TaxController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:08:43.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

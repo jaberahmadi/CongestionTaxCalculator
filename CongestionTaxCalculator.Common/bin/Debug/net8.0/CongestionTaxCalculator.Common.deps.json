@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CongestionTaxCalculator.Common/1.0.0": {
+        "runtime": {
+          "CongestionTaxCalculator.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CongestionTaxCalculator.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

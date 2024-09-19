@@ -1,0 +1,6 @@
+@CongestionTaxCalculator_HostAddress = http://localhost:5118
+
+GET {{CongestionTaxCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

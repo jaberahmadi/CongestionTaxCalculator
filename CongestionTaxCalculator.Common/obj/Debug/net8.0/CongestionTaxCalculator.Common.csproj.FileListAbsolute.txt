@@ -1,0 +1,11 @@
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\bin\Debug\net8.0\CongestionTaxCalculator.Common.deps.json
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\bin\Debug\net8.0\CongestionTaxCalculator.Common.dll
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\bin\Debug\net8.0\CongestionTaxCalculator.Common.pdb
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\CongestionTaxCalculator.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\CongestionTaxCalculator.Common.AssemblyInfoInputs.cache
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\CongestionTaxCalculator.Common.AssemblyInfo.cs
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\CongestionTaxCalculator.Common.csproj.CoreCompileInputs.cache
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\CongestionTaxCalculator.Common.dll
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\refint\CongestionTaxCalculator.Common.dll
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\CongestionTaxCalculator.Common.pdb
+C:\Users\jaber.ahmadi\source\repos\CongestionTaxCalculator\CongestionTaxCalculator.Common\obj\Debug\net8.0\ref\CongestionTaxCalculator.Common.dll
